@@ -1,1 +1,1 @@
-![maybe](../IMG_9137.JPG)
+![maybe](../IMG_9137.jpg)

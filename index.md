@@ -2,8 +2,6 @@
 layout: default
 ---
 
-cmon fucker
-
 {% include 01-name.md %}
 
 <br>
